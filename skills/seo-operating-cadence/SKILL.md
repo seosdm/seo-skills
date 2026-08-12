@@ -91,7 +91,7 @@ to ignore. A report that lists everything is the same as no report.
 
 Match the destination to the reader: exec/client narrative → email or Slack;
 dev tickets from the tech-debt findings → the issue tracker or ClickUp
-(`agency-pipeline-report` can absorb these); content briefs → the writer's
+(`agency-ops-clickup` can absorb these); content briefs → the writer's
 workspace. Deliver where the reader already works, not to a dashboard they have
 to remember to open.
 
