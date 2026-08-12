@@ -1,0 +1,11 @@
+# Never commit real client data
+*.csv
+*.xlsx
+*_export.*
+internal_all.csv
+all_inlinks.csv
+gsc_*.csv
+ahrefs_*.csv
+!examples/**/*sample*.csv
+.env
+.DS_Store
