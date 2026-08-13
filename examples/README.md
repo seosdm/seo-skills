@@ -16,17 +16,8 @@ that produced it**, so the skill and its proof travel together when you copy a f
 | [`gsc-opportunity-mining`](../skills/gsc-opportunity-mining/examples/) | kewlquiz.com | Striking-distance queries that are *falling* from top-3 rather than climbing toward it, which inverts the standard prescription. One confirmed cannibalization pair. |
 | [`seo-content-brief`](../skills/seo-content-brief/examples/) | "SEO consultant Canada" | A directory-dominated SERP, and a brief that says plainly the ranking constraint is review volume, not content depth. |
 | [`seo-operating-cadence`](../skills/seo-operating-cadence/examples/) | A live agency rhythm | Six recurring activities wired to sources and destinations — plus the two that turned out to have no skill behind them at all. |
-
-## Not yet published
-
-| Skill | Status |
-|---|---|
-| `backlink-keyword-gap` | Pending — needs an Ahrefs/Semrush export |
-| `local-seo-gbp-audit` | Pending — needs a Google Business Profile to audit |
-
-Listed rather than omitted, so the gap is visible instead of looking like an oversight.
-
----
+| [`local-seo-gbp-audit`](../skills/local-seo-gbp-audit/examples/) | Two-location comparison | The location with *more* checklist failures is the healthy one — 6 fails at 4.9 stars against 3 fails at 1.5. A present/absent rubric marks a reputation crisis as a pass. |
+| [`backlink-keyword-gap`](../skills/backlink-keyword-gap/examples/) | Competitor gap table | Sort by gap score, not DR. The best targets are domains that already link to you once. And exact-match anchors at 20% mean fixing the mix comes before acquiring anything. |
 
 ## What these examples have in common
 
